@@ -7,4 +7,4 @@
 
 
 ## outcome image
-![code reault: ](./result.png).
+![code result: ](./result.png).
